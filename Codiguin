@@ -1,0 +1,29 @@
+void main() {
+
+//variavel que armazena textos
+String comida1 = 'purê';
+String comida2 = 'frango';
+  print ('eu gosto de $comida1 com $comida2');
+  print ('eu gosto de purê com frango');
+ 
+/*'bool' = booleano. booleano é um tipo de dado lógico
+   que pode ter apenas um de dois valores possíveis: 
+   verdadeiro ou falso*/
+bool verdade = true;
+  print ('ligado $verdade');
+
+//variavel que armazena números inteiros
+int idade = 18;
+  print ('minha idade é $idade');
+ 
+//variavel que armazena números decimais 
+double altura = 1.70;
+  print ('minha altura é $altura metros');
+  
+  
+  
+  
+  
+    
+}
+ 
