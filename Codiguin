@@ -18,12 +18,5 @@ int idade = 18;
  
 //variavel que armazena números decimais 
 double altura = 1.70;
-  print ('minha altura é $altura metros');
-  
-  
-  
-  
-  
-    
-}
- 
+  print ('minha altura é $altura metros');    
+} 
