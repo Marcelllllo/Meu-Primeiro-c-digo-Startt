@@ -1,0 +1,63 @@
+void main () { 
+
+int batata = 10;
+int cebola = 5;
+  
+int resultadoSoma = batata + cebola;
+ print('resultado da soma: $resultadoSoma');
+  
+int resultadoSubtracao = batata - cebola;
+ print('resultado da subtração: $resultadoSubtracao');
+  
+int resultadoMultiplicacao = batata * cebola;
+ print('resultado da multiplicação: $resultadoMultiplicacao');
+  
+double resultadoDivisao = batata / cebola;
+ print('resultado da divisão: $resultadoDivisao');
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
