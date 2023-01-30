@@ -1,0 +1,17 @@
+void main () {
+  
+int cebola = 50;
+int batata = 10;
+  
+int compra1 = cebola + batata;
+ print ('eu gastei $compra1 reais no mercado');
+  
+double matLaura1 = 7;
+double matLaura2 = 8;
+double matLaura3 = 8;
+double matLaura4 = 9;
+  
+double mediaMatLaura1 = matLaura1 + matLaura2 + matLaura3 + matLaura4;
+double mediaMatLaura2 = mediaMatLaura1 / 4; 
+print('A nota da Laura no primeiro bimestre foi $mediaMatLaura2');  
+}
