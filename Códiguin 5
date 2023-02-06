@@ -1,0 +1,63 @@
+void main() {
+ 
+int maiorDeIdade = 18;
+  
+int pessoaUmIdade = 17;
+int pessoaDoisIdade = 20;
+int pessoaTresIdade = 18;
+int pessoaQuatroIdade = 16;
+int pessoaCincoIdade = 19;
+
+String pessoaUm = 'Marcelo';
+String pessoaDois = 'Rafaela';
+String pessoaTres = 'Rebecca';
+String pessoaQuatro = 'Fernando';
+String pessoaCinco = 'Luiza';
+  
+  
+if (pessoaUmIdade >= maiorDeIdade)
+{
+ print ("O $pessoaUm pode consumir álcool");  
+} else
+  
+{ 
+ print ("O $pessoaUm não pode consumir álcool");
+}  
+ 
+if (pessoaDoisIdade >= maiorDeIdade)
+{
+ print ("A $pessoaDois pode consumir álcool");  
+} else
+  
+{ 
+ print ("A $pessoaDois não pode consumir álcool");
+}  
+  
+if (pessoaTresIdade >= maiorDeIdade)
+{
+ print ("A $pessoaTres pode consumir álcool");  
+} else
+  
+{ 
+ print ("A $pessoaTres não pode consumir álcool");
+}  
+   
+if (pessoaQuatroIdade >= maiorDeIdade)
+{
+ print ("O $pessoaQuatro pode consumir álcool");  
+} else
+  
+{ 
+ print ("O $pessoaQuatro não pode consumir álcool");
+}  
+   
+if (pessoaCincoIdade >= maiorDeIdade)
+{
+ print ("A $pessoaCinco pode consumir álcool");  
+} else
+  
+{ 
+ print ("A $pessoaCinco não pode consumir álcool");
+}  
+  
+}
