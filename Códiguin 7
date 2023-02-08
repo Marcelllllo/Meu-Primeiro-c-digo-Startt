@@ -1,0 +1,25 @@
+void main () {
+  
+operacoesMatBasicas(2,5);
+operacoesMatBasicas(7,10);
+operacoesMatBasicas(2000,4888);  
+operacoesMatBasicas(1928901,91084091);
+
+}
+
+void operacoesMatBasicas (double x,double y)  
+
+{  
+  
+double resultado1 = x + y; 
+print (resultado1);        
+
+double resultado2 = x - y; 
+print (resultado2);  
+  
+double resultado3 = x * y; 
+print (resultado3);  
+  
+double resultado4 = x / y; 
+print (resultado4);    
+}
