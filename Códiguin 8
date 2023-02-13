@@ -1,0 +1,33 @@
+void main () {
+
+ print ('Todas as piscinas inflaveis produzidas que não');
+ print ("comportarem 8L de densidade deverão ser descartadadas");
+ print ('');
+
+divisao(150,15);
+divisao(85,10);
+divisao(30,4);  
+divisao(65,10);
+  
+}
+
+void divisao (double massa,double volume)  
+
+{ 
+  
+ double densidade = massa / volume;         
+
+if (densidade <= 8)
+
+{
+  
+ print ('Essa piscina comporta 8L de densidade'); 
+ print ('');
+} else 
+  
+{ 
+ print ('Essa piscina não comporta 8L de densidade');
+ print ('');
+}
+  
+}
